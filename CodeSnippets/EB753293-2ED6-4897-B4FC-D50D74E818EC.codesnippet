@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>com</string>
+	<string>anno</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *
+	<string>/*
+ 
  */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>48DE1D79-02B2-47AC-9046-25DD6AF3ED6D</string>
+	<string>EB753293-2ED6-4897-B4FC-D50D74E818EC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>annotation</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ELC Comment</string>
+	<string>annotation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
